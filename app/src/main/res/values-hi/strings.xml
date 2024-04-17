@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Activity</string>
+    <string name="your_name">मेरा नाम दृष्टि है</string>
+    <string name="your_age">मेरी उम्र 22 साल है।</string>
+    <string name="your_father_name">मेरे पिता का नाम श्री सुशील है।</string>
+    <string name="your_mother_name">मेरी माँ का नाम श्रीमती किरण है।</string>
+    <string name="your_Leave">मैं जालंधर शहर में निकलता हूं</string>
+    <string name="your_color">मेरा पसंदीदा रंग काला है.</string>
+    <string name="about_me">मेरे बारे में</string>
+</resources>

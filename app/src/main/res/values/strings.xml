@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Language Activity</string>
+    <string name="your_name">My name is Drishti</string>
+    <string name="your_age">I am 22 years Old.</string>
+    <string name="your_father_name">My Father Name is Mr.Sushil.</string>
+    <string name="your_mother_name">My Mother Name is Mrs.Kiran.</string>
+    <string name="your_Leave">I leave in Jalandhar City</string>
+    <string name="your_color">My favt Colour is Black.</string>
+    <string name="about_me">About Me</string>
+    <string name="Change_theme_Mode">Change Theme Mode</string>
+    <string name="changes">CHANGE</string>
+    <string name="Change_language_Mode">Change Language Mode</string>
+    <string name="change_color">Change colour</string>
+    <string name="change_theme">Change Themes</string>
+    <string name="English">English</string>
+    <string name="Punjabi">Punjabi</string>
+    <string name="Hindi">Hindi</string>
+    <string name="change_language">Change Languages</string>
+    <string name="change_language_message">Change Language Message</string>
+    <string name="change_color_theme">Change Color Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="Light_theme">Light Theme</string>
+</resources>
